@@ -98,3 +98,4 @@ production:
   database: colaboradores_rails_production
   username: colaboradores_rails
   password: <%= ENV['DATABASE_URL'] %>
+
