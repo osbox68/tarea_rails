@@ -9,3 +9,5 @@
 10.times do |x|
     Colaborator.create(name: Faker::Name.name , email: Faker::Internet.email, direction: Faker::Address.street_address)
 end
+
+
