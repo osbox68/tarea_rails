@@ -1,0 +1,6 @@
+es:
+  pagy:
+    nav:
+      prev: "Atras"
+      next: "Adelante"
+      gap: "..."
